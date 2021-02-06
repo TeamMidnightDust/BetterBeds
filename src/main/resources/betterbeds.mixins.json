@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "eu.midnightdust.betterbeds.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinBedBlock",
+    "MixinBlockEntityRendererDispatcher"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
