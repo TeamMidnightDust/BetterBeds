@@ -20,6 +20,12 @@
 
   "environment": "*",
 
+  "entrypoints": {
+    "client": [
+      "eu.midnightdust.betterbeds.BetterBedsClient"
+    ]
+  },
+
   "mixins": [
     "betterbeds.mixins.json"
   ],
