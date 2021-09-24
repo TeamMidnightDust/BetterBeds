@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/bed_head",
   "textures": {
-    "0": "minecraft:entity/bed/blue"
+    "bed": "minecraft:entity/bed/blue"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/bed",
   "textures": {
-    "0": "entity/bed/magenta"
+    "bed": "entity/bed/magenta"
   }
 }
