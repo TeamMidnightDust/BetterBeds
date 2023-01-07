@@ -48,8 +48,8 @@ jar {
 }
 
 remapJar {
-    archiveVersion = "v${project.version}"
-    archiveBaseName = "${project.archivesBaseName}-mc${project.minecraft_version}"
+    archiveVersion = "${project.version}-${project.minecraft_version}"
+    archiveBaseName = "${project.archivesBaseName}"
 }
 
 // configure the maven publication

@@ -63,7 +63,7 @@
 				"east": {"uv": [1.75, 1.75, 2, 3.25], "rotation": 90, "texture": "#bed"},
 				"south": {"uv": [1.75, 0.5, 5.25, 0.75], "texture": "#bed"},
 				"west": {"uv": [5, 1.75, 5.25, 3.25], "rotation": 90, "texture": "#bed"},
-				"up": {"uv": [1.75, 1.75, 5.25, 3.25], "texture": "#bed"}
+				"up": {"uv": [1.75, 1.75, 5.25, 3.25], "rotation": 180, "texture": "#bed"}
 			}
 		}
 	]
