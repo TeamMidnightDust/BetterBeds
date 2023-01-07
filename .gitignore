@@ -11,6 +11,7 @@ classes/
 *.iml
 *.ipr
 *.iws
+*.launch
 
 # vscode
 
