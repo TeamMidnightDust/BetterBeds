@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bed",
-  "textures": {
-    "0": "entity/bed/yellow"
-  }
-}

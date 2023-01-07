@@ -12,6 +12,7 @@ public class BetterBedsClient implements ClientModInitializer {
         FabricLoader.getInstance().getModContainer("betterbeds").ifPresent(modContainer -> {
             ResourceManagerHelper.registerBuiltinResourcePack(new Identifier("betterbeds:fancybeds"),  modContainer, ResourcePackActivationType.NORMAL);
             ResourceManagerHelper.registerBuiltinResourcePack(new Identifier("betterbeds:connectedbeds"),  modContainer, ResourcePackActivationType.NORMAL);
+            ResourceManagerHelper.registerBuiltinResourcePack(new Identifier("betterbeds:fancyconnectedbeds"),  modContainer, ResourcePackActivationType.NORMAL);
         });
     }
 }
