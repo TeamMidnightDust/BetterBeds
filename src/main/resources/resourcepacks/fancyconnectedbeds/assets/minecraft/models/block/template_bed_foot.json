@@ -21,7 +21,7 @@
 			"to": [16, 3, 3],
 			"rotation": {"angle": 0, "axis": "y", "origin": [21, 8, 8]},
 			"faces": {
-				"north": {"uv": [12.5, 0.75, 13.25, 1.5], "texture": "#bed", "cullface": "east"},
+				"north": {"uv": [13.25, 0.75, 12.5, 1.5], "texture": "#bed", "cullface": "east"},
 				"east": {"uv": [14.75, 0.75, 15.5, 1.5], "texture": "#bed", "cullface": "east"},
 				"south": {"uv": [14, 0.75, 14.75, 1.5], "texture": "#bed", "cullface": "east"},
 				"west": {"uv": [13.25, 0.75, 14, 1.5], "texture": "#bed", "cullface": "east"},
