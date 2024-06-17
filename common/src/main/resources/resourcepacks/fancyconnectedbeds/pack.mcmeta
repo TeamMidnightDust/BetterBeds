@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 12,
+    "supported_formats": {
+      "min_inclusive": 12,
+      "max_inclusive": 100
+    },
+    "description": "§2Makes beds look fancier and allows them to connect <3"
+  }
+}

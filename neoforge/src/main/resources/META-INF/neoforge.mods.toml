@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "MIT License"
+
+[[mods]]
+modId = "betterbeds"
+version = "${version}"
+displayName = "Better Beds"
+logoFile = "betterbeds.png"
+authors = "TeamMidnightDust, Motschen"
+description = '''
+Changes the renderer of the bed to use block models instead of a block entity renderer!
+'''
+
+[[mixins]]
+config = "betterbeds.mixins.json"
+
+[[dependencies.betterbeds]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.betterbeds]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
